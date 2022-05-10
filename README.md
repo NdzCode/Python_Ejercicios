@@ -4,5 +4,4 @@ El objetivo de este repositorio es  explorar las diferentes funciones de python 
 cada archivo.py estara documentado detallando su funcionalidad.
 
 #### Indice : 
-- Tipos de datos
-- Estructuras de Control
+- [area_de_un_anillo.py]
