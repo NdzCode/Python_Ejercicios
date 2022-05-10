@@ -5,3 +5,4 @@ cada archivo.py estara documentado detallando su funcionalidad.
 
 #### Indice : 
 - Tipos de datos
+- Estructuras de Control
